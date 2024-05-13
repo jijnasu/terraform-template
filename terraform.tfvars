@@ -1,0 +1,7 @@
+prefix = "kjtut1"
+location = "eastus"
+resource_group = "RG"
+storage_acc = "storageacc9658"
+vnet = "vnet"
+vm = "azWinVM"
+availability_set = "azAvailSet"

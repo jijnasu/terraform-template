@@ -1,0 +1,1 @@
+Sample txt for terraform tutorial upload to blog storage
